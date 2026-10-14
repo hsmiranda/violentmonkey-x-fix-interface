@@ -67,4 +67,4 @@ Open the settings panel (**`Alt + W`**) to choose your preferred width:
 * **Large (1350px)** *(Default)*: Optimized for 2880×1800 @ 1.33x — generous, comfortable reading width that fills the middle without wasted side space.
 * **Ultra (1600px)**: Extra-large timeline for ultrawide monitors.
 * **Stretch (100%)**: Fluid layout that stretches to use the entire screen width.
-* **Custom Slider**: Range from `500px` to `2200px` for pixel-perfect adjustments.
+* **Custom Slider**: Range from `500px` to `2200px` for pixel-perfect adjustments

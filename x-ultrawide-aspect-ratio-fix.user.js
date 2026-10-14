@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         X/Twitter Ultrawide & Aspect Ratio Fix
-// @namespace    https://github.com/herbe/violentmonkey-x-fix-interface
+// @namespace    https://github.com/hsmiranda/violentmonkey-x-fix-interface
 // @version      2.0.0
 // @description  Eliminates letterboxing, vastly enlarges the middle timeline, fixes media aspect ratio issues, and optimizes layout for ultrawide & HiDPI displays (including 2880x1800 @ 1.33x) on x.com (Twitter).
 // @author       herbe
